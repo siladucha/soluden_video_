@@ -62,5 +62,5 @@ The system logs motion density over time:
 This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
-Developed by **Max Bregert** for the **Senior Python Developer Assignment**.
+Developed by **Max Breger** for the **Senior Python Developer Assignment**.
 
